@@ -12,7 +12,7 @@ const Me = () => {
       target='_blank'
     >
       <HeartIcon />
-      {t('author')}
+      {'By Rodrigo Masini de Melo'}
     </a>
   );
 };
